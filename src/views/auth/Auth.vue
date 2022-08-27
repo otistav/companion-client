@@ -6,6 +6,6 @@
 <script setup lang="ts">
 
 </script>
-<style lang="scss">
 
+<style lang="sass" src="./index.sass">
 </style>
